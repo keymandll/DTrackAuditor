@@ -1,0 +1,1 @@
+Standone version of script to be used without pip install
